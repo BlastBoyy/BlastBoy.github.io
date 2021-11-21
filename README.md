@@ -1,4 +1,5 @@
-Hey bros, welcome to my profile
+# BlastBoy.github.io
+Hey bro, welcome to my profile
 
 My name is Tran Vu Minh Khoi
 
