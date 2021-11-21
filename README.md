@@ -1,4 +1,3 @@
-# BlastBoy.github.io
 Hey bro, welcome to my profile
 
 My name is Tran Vu Minh Khoi
